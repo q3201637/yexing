@@ -1,0 +1,23 @@
+{
+  "name": "fuwu",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.4",
+    "@alicloud/sms-sdk": "^1.1.6",
+    "async": "^2.6.1",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.16.4",
+    "multiparty": "^4.2.1",
+    "mysql": "^2.15.0",
+    "node-uuid": "^1.4.8",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
